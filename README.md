@@ -11,6 +11,12 @@ A beginner-friendly Security Information and Event Management (SIEM) learning pr
 
 ![AI-Powered Mini SIEM architecture](docs/architecture.svg)
 
+## Dashboard preview
+
+This is an illustrative UI mockup, not a capture from a running app. The displayed events and values are synthetic.
+
+![Illustrative AI-Powered Mini SIEM dashboard mockup](screenshots/dashboard-mockup.svg)
+
 ## Features
 - Dashboard with event and alert counts
 - CSV and JSON event ingestion
