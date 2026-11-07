@@ -1,0 +1,5 @@
+timestamp,source,event_type,username,source_ip,details
+2026-11-07T07:50:00Z,Linux auth.log,Successful login,admin,192.168.1.10,User authenticated successfully
+2026-11-07T07:51:00Z,Linux auth.log,Failed login,root,203.0.113.44,Authentication failure invalid password
+2026-11-07T07:52:00Z,Network sensor,Port scan detected,,198.51.100.21,Nmap SYN scan across multiple ports
+2026-11-07T07:53:00Z,Endpoint agent,Malware alert,student,192.168.1.18,Possible trojan file quarantined
