@@ -1,0 +1,8 @@
+[
+  {"timestamp":"2026-11-07T07:50:00Z","source":"Linux auth.log","event_type":"Successful login","username":"admin","source_ip":"192.168.1.10","details":"User authenticated successfully"},
+  {"timestamp":"2026-11-07T07:51:00Z","source":"Linux auth.log","event_type":"Failed login","username":"root","source_ip":"203.0.113.44","details":"Authentication failure: invalid password"},
+  {"timestamp":"2026-11-07T07:52:00Z","source":"Network sensor","event_type":"Port scan detected","username":"","source_ip":"198.51.100.21","details":"Nmap SYN scan across multiple ports"},
+  {"timestamp":"2026-11-07T07:53:00Z","source":"Endpoint agent","event_type":"Malware alert","username":"student","source_ip":"192.168.1.18","details":"Possible trojan file quarantined"},
+  {"timestamp":"2026-11-07T07:54:00Z","source":"Windows event log","event_type":"Process started","username":"student","source_ip":"192.168.1.18","details":"Normal application launch"},
+  {"timestamp":"2026-11-07T07:55:00Z","source":"Linux audit","event_type":"Privilege escalation","username":"operator","source_ip":"192.168.1.12","details":"sudoers changed; admin group modification"}
+]
