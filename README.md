@@ -2,6 +2,8 @@
 
 A beginner-friendly Security Information and Event Management (SIEM) learning project. It imports security events from CSV/JSON, stores them in SQLite, applies explainable risk-scoring rules, and displays events and alerts in a Flask dashboard.
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white) ![Web](https://img.shields.io/badge/Web-Flask-000000?logo=flask&logoColor=white) ![Storage](https://img.shields.io/badge/Storage-SQLite-003B57?logo=sqlite&logoColor=white) ![Detection](https://img.shields.io/badge/Detection-Rule--based-informational)
+
 > Educational prototype, not a production SIEM. Detection currently uses transparent rule-based scoring; it is not a trained AI model.
 
 
