@@ -4,6 +4,11 @@ A beginner-friendly Security Information and Event Management (SIEM) learning pr
 
 > Educational prototype, not a production SIEM. Detection currently uses transparent rule-based scoring; it is not a trained AI model.
 
+
+## Architecture overview
+
+![AI-Powered Mini SIEM architecture](docs/architecture.svg)
+
 ## Features
 - Dashboard with event and alert counts
 - CSV and JSON event ingestion
