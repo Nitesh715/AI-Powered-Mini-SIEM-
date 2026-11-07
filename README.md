@@ -55,3 +55,8 @@ The prototype assigns risk points to recognizable event patterns. Rules are expl
 - Do not upload logs containing passwords, tokens, or personal data.
 - Run locally; do not expose the Flask development server to the public internet.
 - Change the default SECRET_KEY and use a production WSGI server before real deployment.
+
+
+## Screenshots
+
+Runtime screenshots are not included yet. Add genuine captures from the locally running Flask dashboard to a `screenshots/` folder (for example, `dashboard.png`, `events.png`, and `alerts.png`). This README intentionally does not use fabricated images as application evidence.
